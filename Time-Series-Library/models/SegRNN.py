@@ -27,6 +27,13 @@ class Model(nn.Module):
         self.seg_len = configs.seg_len
         self.seg_num_x = self.seq_len // self.seg_len
         self.seg_num_y = self.pred_len // self.seg_len
+        
+        print("seq_len:", self.seq_len)
+        print("pred_len:", self.pred_len)
+        print("seg_len:", self.seg_len)
+        print("seg_num_x:", self.seg_num_x)
+        print("seg_num_y:", self.seg_num_y)
+
 
         # building model
         self.valueEmbedding = nn.Sequential(

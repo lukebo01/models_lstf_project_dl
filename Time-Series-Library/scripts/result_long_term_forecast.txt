@@ -1,3 +1,6 @@
 long_term_forecast_TSMixer_24_forecast_TSMixer_custom_ftM_sl24_ll24_pl24_dm512_nh8_el2_dl1_df2048_expand2_dc4_fc1_ebtimeF_dtTrue_Forecasting con finestra 24 usando TSMixer_0  
 mse:0.6443623900413513, mae:0.5564426183700562, dtw:Not calculated
 
+long_term_forecast_ETTh1_24_24_SegRNN_custom_ftM_sl24_ll24_pl24_dm512_nh8_el2_dl1_df2048_expand2_dc4_fc1_ebtimeF_dtTrue_forecasting_24 usando SegRNN_0  
+mse:1.066623330116272, mae:0.7933226823806763, dtw:Not calculated
+
