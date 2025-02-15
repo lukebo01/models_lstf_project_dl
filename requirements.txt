@@ -1,0 +1,12 @@
+# requirements.txt
+# 
+# Per utilizzare CUDA nel tuo ambiente virtuale (.venv), assicurati di avere:
+#   - I driver GPU appropriati installati sul tuo sistema.
+#   - Il CUDA Toolkit e cuDNN compatibili con la versione di TensorFlow indicata.
+#   - Le variabili d'ambiente configurate correttamente (es. LD_LIBRARY_PATH su Linux o PATH su Windows).
+#
+# Installa le dipendenze con:
+#   pip install -r requirements.txt
+
+numpy
+pandas
