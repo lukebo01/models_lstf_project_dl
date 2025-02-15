@@ -1,0 +1,20 @@
+{
+    "data_path": "data/final/",
+    "data_files": {
+      "train": "train.csv",
+      "val": "val.csv",
+      "test": "test.csv"
+    },
+    "date_col": "date",
+    "features": "M", 
+    "target": "all",
+    "seq_len": 24,
+    "label_len": 24,
+    "pred_len": 24,
+    "batch_size": 64,
+    "epochs": 50,
+    "learning_rate": 0.001,
+    "model": "TSMixer",
+    "metrics": ["mae", "rmse", "mse"]
+  }
+  
