@@ -10,3 +10,6 @@ mse:1.0033079385757446, mae:0.7699872255325317, dtw:Not calculated
 long_term_forecast_ETTh1_96_96_SegRNN_custom_ftM_sl96_ll24_pl96_dm512_nh8_el2_dl1_df2048_expand2_dc4_fc1_ebtimeF_dtTrue_forecasting_96 usando SegRNN_0  
 mse:0.9626886248588562, mae:0.7540967464447021, dtw:Not calculated
 
+long_term_forecast_ETTh1_168_168_SegRNN_custom_ftM_sl168_ll24_pl168_dm512_nh8_el2_dl1_df2048_expand2_dc4_fc1_ebtimeF_dtTrue_forecasting_168 usando SegRNN_0  
+mse:0.9495015144348145, mae:0.7489325404167175, dtw:Not calculated
+
