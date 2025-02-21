@@ -46,3 +46,12 @@ mse:0.9132508635520935, mae:0.7335691452026367, dtw:Not calculated
 long_term_forecast_B101_24_24_WPMixer_custom_ftM_sl24_ll24_pl24_dm256_nh8_el2_dl1_df2048_expand2_dc4_fc1_ebtimeF_dtTrue_forecasting_24_0  
 mse:1.0762711763381958, mae:0.7976717352867126, dtw:Not calculated
 
+long_term_forecast_B101_48_48_WPMixer_custom_ftM_sl48_ll24_pl48_dm256_nh8_el2_dl1_df2048_expand2_dc4_fc1_ebtimeF_dtTrue_forecasting_48_0  
+mse:1.0080006122589111, mae:0.7713106274604797, dtw:Not calculated
+
+long_term_forecast_B101_96_96_WPMixer_custom_ftM_sl96_ll24_pl96_dm256_nh8_el2_dl1_df2048_expand2_dc4_fc1_ebtimeF_dtTrue_forecasting_96_0  
+mse:0.9660658240318298, mae:0.7546635270118713, dtw:Not calculated
+
+long_term_forecast_B101_168_168_WPMixer_custom_ftM_sl168_ll24_pl168_dm256_nh8_el2_dl1_df2048_expand2_dc4_fc1_ebtimeF_dtTrue_forecasting_168_0  
+mse:0.9527004361152649, mae:0.7496277093887329, dtw:Not calculated
+
