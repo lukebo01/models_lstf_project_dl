@@ -40,3 +40,9 @@ mse:0.9403099417686462, mae:0.7463232278823853, dtw:Not calculated
 long_term_forecast_B101_168_168_DLinear_custom_ftM_sl168_ll24_pl168_dm512_nh8_el2_dl1_df2048_expand2_dc4_fc10_ebtimeF_dtTrue_forecasting_168_0  
 mse:0.9437453746795654, mae:0.7477004528045654, dtw:Not calculated
 
+long_term_forecast_B101_24_24_DLinear_custom_ftM_sl24_ll24_pl24_dm256_nh8_el2_dl1_df2048_expand2_dc4_fc1_ebtimeF_dtTrue_forecasting_24 usando DLinear_0  
+mse:0.9132508635520935, mae:0.7335691452026367, dtw:Not calculated
+
+long_term_forecast_B101_24_24_WPMixer_custom_ftM_sl24_ll24_pl24_dm256_nh8_el2_dl1_df2048_expand2_dc4_fc1_ebtimeF_dtTrue_forecasting_24_0  
+mse:1.0762711763381958, mae:0.7976717352867126, dtw:Not calculated
+
